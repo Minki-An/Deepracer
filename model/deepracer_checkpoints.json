@@ -1,0 +1,1 @@
+{"best_checkpoint": {"name": "140_Step-123889.ckpt", "avg_eval_metric": 100, "time_stamp": 10962.444}, "last_checkpoint": {"name": "145_Step-136982.ckpt", "avg_eval_metric": 47.53845111009718, "time_stamp": 12065.325}}

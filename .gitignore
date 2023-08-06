@@ -1,0 +1,4 @@
+Deepracermodel/sim-trace/*
+eval_params*
+Deepracermodel/logs/leaderboard/leaderboard*
+Deepracermodel/logs/training/training*
